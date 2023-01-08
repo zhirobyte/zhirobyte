@@ -2,7 +2,6 @@
 ![Banner](https://github.com/zhirobyte/zhirobyte/blob/main/bg.png)
 
 - 👋 Hi, I’m @zhirobyte
-- <p align="left"><a href="https://paypal.me/zhirone?country.x=ID&locale.x=en_US"><img src="https://cdn3.emoji.gg/emojis/1716_PAYPAL.png" width="40px" height="40px" alt="PAYPAL"></a></p>
 
 <!---
 zhirobyte/zhirobyte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
