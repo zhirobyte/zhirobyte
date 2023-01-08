@@ -1,5 +1,5 @@
 
-![Banner](https://github.com/zhirobyte/zhirobyte/blob/main/bg.png)
+![Banner](https://github.com/zhirobyte/zhirobyte/blob/main/back.png)
 
 - 👋 Hi, I’m @zhirobyte
 
