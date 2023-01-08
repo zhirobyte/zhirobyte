@@ -14,4 +14,4 @@ I'am Faiz Hanafi Computer Science student who lives in Indonesia, I like to Enjo
 -  🐞 Finding Bugs is my favourites gift
 -  ❄️ Not developer but salikin ila rabbiy 
 
-![Faiz's Github Stats](https://github-readme-stats.vercel.app/api?username=zhirobyte&show_icons=true&title_color=1F6FEB&icon_color=1F6FEB&text_color=FFFDFA&bg_color=0D1117)
+![Faiz's Github Stats](https://github-readme-stats.vercel.app/api?username=zhirobyte&show_icons=true&title_color=1F6FEB&icon_color=1F6FEB&text_color=8B9299&bg_color=0D1117)
