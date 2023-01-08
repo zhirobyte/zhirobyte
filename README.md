@@ -9,7 +9,6 @@ Hello folk's
 I'am Faiz Hanafi Computer Science student who lives in Indonesia, Usually I like to Enjoy Finding bugs on plenty of website and apps, discussing any kind of ideas, psychology, history, and playing around of computer, security and network engineering in free time.
 
 -  🐞 Finding Bugs is my favourites gift
--  🧊 
 -  ❄️ Not developer but salikin ila rabbiy 
 
-[![Faiz's Github Stats](https://github-readme-stats.vercel.app/api?username=zhirobyte)](https://github.com/anuraghazra/github-readme-stats)
+[![Faiz's Github Stats](https://github-readme-stats.vercel.app/api?username=zhirobyte&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]
