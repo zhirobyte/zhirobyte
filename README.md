@@ -2,6 +2,7 @@
 ![Banner](https://github.com/zhirobyte/zhirobyte/blob/main/bg.png)
 
 - 👋 Hi, I’m @zhirobyte
+- <p align="left"><a href="https://paypal.me/zhirone?country.x=ID&locale.x=en_US"><img src="https://cdn3.emoji.gg/emojis/1716_PAYPAL.png" width="40px" height="40px" alt="PAYPAL"></a></p>
 
 <!---
 zhirobyte/zhirobyte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +16,4 @@ I'am Faiz Hanafi Computer Science student who lives in Indonesia, I like to Enjo
 -  ❄️ Not developer but salikin ila rabbiy 
 
 ![Faiz's Github Stats](https://github-readme-stats.vercel.app/api?username=zhirobyte&show_icons=true&title_color=39D353&icon_color=39D353&text_color=C9D1D9&bg_color=0D1117)
-<p align="left"><a href="https://paypal.me/zhirone?country.x=ID&locale.x=en_US"><a href="https://emoji.gg/emoji/1716_PAYPAL"><img src="https://cdn3.emoji.gg/emojis/1716_PAYPAL.png" width="20px" height="20px" alt="PAYPAL"></a></a></p>
+
