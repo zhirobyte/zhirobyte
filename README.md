@@ -1,4 +1,6 @@
-![Banner]()
+
+![Banner](https://github.com/zhirobyte/zhirobyte/blob/main/bg.png)
+
 - 👋 Hi, I’m @zhirobyte
 
 <!---
