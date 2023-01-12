@@ -16,6 +16,3 @@ I'am Faiz Hanafi Computer Science student who lives in Indonesia, I like to Enjo
 
 ![Faiz's Github Stats](https://github-readme-stats.vercel.app/api?username=zhirobyte&show_icons=true&title_color=39D353&icon_color=39D353&text_color=C9D1D9&bg_color=0D1117)
 
-
-
-![zhirobyte's github stats](https://github-readme-stats.vercel.app/api?username=zhirobyte&show_icons=true&title_color=39D353&icon_color=39D353&text_color=C9D1D9&bg_color=0D1117)
