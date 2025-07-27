@@ -3,8 +3,6 @@
 
 ---
 
-### 🧠 About Me
-
 - 👨‍💻 I'm a passionate learner not expert
 ---
 
@@ -22,15 +20,7 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=zhirobyte&theme=dark&background=0D1117&text_color=C9D1D9" alt="GitHub Streak" />
 </p>
 
-
 ---
-
-### 📫 Contact
-
-- 🌐 GitHub: [github.com/zhirobyte](https://github.com/zhirobyte)
-
----
-
 <!--
 zhirobyte/zhirobyte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
