@@ -5,13 +5,6 @@
 
 - 👨‍💻 I'm a passionate learner not expert
   
----
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=zhirobyte&theme=dark&background=0D1117&text_color=C9D1D9" alt="GitHub Streak" />
-</p>
-
 
 ### 🛠️ Tools & Languages
 
