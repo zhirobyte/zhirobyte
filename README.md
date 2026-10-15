@@ -1,19 +1,19 @@
-<h1 align="center">Hi there, I'm Faiz Hanafi (@zhirobyte) 👋</h1>
-<p align="center">💻 Bug bounty hunter · 🔍 Security enthusiast · 🛠️ Tools builder</p>
+## Faiz Hanafi
+
+**@zhirobyte · Security Researcher & Developer**
+
+*Dream. Discover. Explore. Grateful.*
 
 ---
 
-- 👨‍💻 I'm a passionate learner not expert
-  
+### 🔬 About Me
 
-### 🛠️ Tools & Languages
+Security researcher exploring **web application security, vulnerability research, reverse engineering, and open-source development.**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,linux,javascript,laravel,github,vscode,windows" />
-</p>
+### 🛠️ Research & Engineering
+
+`Web Security` · `Bug Bounty` · `Reverse Engineering` · `Python` · `Linux` · `JavaScript` · `Electron`
 
 ---
 
-<!--
-zhirobyte/zhirobyte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+[Selected Projects](https://github.com/zhirobyte?tab=repositories) · Responsible Disclosure · [ORCID](https://orcid.org/0009-0003-9397-5957) · [LinkedIn](https://www.linkedin.com/in/faizhanafi90/)
