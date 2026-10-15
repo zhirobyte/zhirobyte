@@ -1,4 +1,3 @@
-## Faiz Hanafi
 
 **@zhirobyte · Security Researcher & Developer**
 
